@@ -1,0 +1,8 @@
+com.bmicalculation{
+app.name="BMI Calculation"
+bucket.name="Project"
+path.prefix="Data"
+file.parentbucket="bmicalculation"
+file.protocol="C:\"
+source.file.name="InputData.json"
+}

@@ -1,0 +1,11 @@
+{
+"app.name" : "BMI Calculation",
+"bucket.name":"Project",
+"path.prefix":"Data",
+"file.parentbucket":"bmicalculation",
+"file.protocol":"C",
+"source.file.name":"InputData.json",
+"output.file.name" : "result",
+"output.file.path" : "Project",
+"output.file.format": "csv"
+}
